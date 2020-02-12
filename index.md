@@ -4,5 +4,5 @@ layout: home
 permalink: /
 ---
 
-# Welcome
-Hi
+# Welcome to the Kov
+
