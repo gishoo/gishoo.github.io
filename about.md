@@ -8,4 +8,4 @@ permalink: /about/
 
 About me
 
-I'm a software engineer who loves hacking, regardless of whether that is security or creation.
+I'm a software engineer who loves hacking, regardless of whether that's breaking software or creating it.
