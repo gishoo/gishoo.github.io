@@ -7,10 +7,12 @@ header_pages:
   - index.md
   - about.md
   - contact.md
+  - portfolio.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow me on <a href="https://github.com/">github</a>'
+#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
 markdown: kramdown
